@@ -1,0 +1,28 @@
+{
+	"guildId": "",
+	"baseUrl":"https://aaaaa.1stminhcar.repl.co",
+"clientId":"892340813906968587",
+    "clientSecret":"kmfdCE-2Z2bzqon4s9_YlTpoRF3OugG0",
+    "callbackURL":"BOTcallbackURL",
+    "Admin":["userAdminID"],
+    "token":"ODkyMzQwODEzOTA2OTY4NTg3.YVLfJA.H9qnnw-Nbd2lX06jAaWOJjlxh_w",
+    "prefix":"hey.",
+    "port":3000,
+    "OWNER_ID":"470047132670361610",
+    "BOT_TOKEN": "ODkyMzQwODEzOTA2OTY4NTg3.YVLfJA.H9qnnw-Nbd2lX06jAaWOJjlxh_w",
+    "tenorAPI":"ZEEELJXAFQBN",
+    "DEFAULT_PREFIX":"hey.",
+    "mongoPass": "mongodb+srv://Notthebot:ntncar311C@cluster0.0488j.mongodb.net/cluster0?retryWrites=true&w=majority",
+    "ERROR_LOGS_CHANNEL": "901410944427655209",
+    "ALEXFLIPNOTE_API_KEY":"cpIyqcxO2uk_f_4nrKCNtT6VkaTfZZtLU9HdFlhl",
+    "YT_COOKIE": "",
+     "BID": "892340813906968587",
+"owner": "NotMinhDucGamingTV®",
+"MONGOURL": "mongodb+srv://Notthebot:ntncar311C@cluster0.0488j.mongodb.net/cluster0?retryWrites=true&w=majority",
+"client_secret": "kmfdCE-2Z2bzqon4s9_YlTpoRF3OugG0",
+ "DASHBOARDURL": "https://here.1stminhcar.repl.co",
+    "webhook_id":"906123570617384960",
+  "webhook_url":"https://canary.discord.com/api/webhooks/906123570617384960/5fqjfH6vpBSaoswPnvtES_HulVC_8Faa5PYQAx426cjJvAgSXboq7f6gaZVfmrHYSHrb",
+  "dashboard":"true"
+}
+
